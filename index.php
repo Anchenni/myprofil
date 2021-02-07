@@ -40,7 +40,7 @@ https://templatemo.com/tm-464-ultra-profile
 					<li><a href="#home" class="smoothScroll">Accueil</a></li>
 					<li><a href="#work" class="smoothScroll">Mon expertise</a></li>
 					<li><a href="#portfolio" class="smoothScroll">Portfolio</a></li>
-					<li><a href="#resume" class="smoothScroll">Mon Cv</a></li>
+					<li><a href="#resume" class="smoothScroll">Compétences</a></li>
 					<li><a href="#about" class="smoothScroll">À propos</a></li>
 					<li><a href="#contact" class="smoothScroll">Contact</a></li>
 				</ul>
