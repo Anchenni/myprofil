@@ -356,6 +356,7 @@ https://templatemo.com/tm-464-ultra-profile
 			<div class="row">
 				<div class="col-md-12">					
 					<h2 class="title">Contactez-<strong>Moi</strong></h2>
+					<center><h3> Je suis joignable au 0466/43.05.69 </h3></center>
 					<hr>					
 				</div>
 				<div class="col-md-1 col-sm-1"></div>
