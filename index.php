@@ -33,7 +33,7 @@ https://templatemo.com/tm-464-ultra-profile
 					<span class="icon icon-bar"></span>
 					<span class="icon icon-bar"></span>
 				</button>
-				<a href="#" class="navbar-brand">Anchenni</a>
+				<a href="https://anouarchennife.herokuapp.com/" class="navbar-brand">Anchenni</a>
 			</div>
 			<nav class="collapse navbar-collapse" id="rock-navigation">
 				<ul class="nav navbar-nav navbar-right main-navigation text-uppercase">
@@ -321,7 +321,7 @@ https://templatemo.com/tm-464-ultra-profile
 				
 				<div class="col-md-4 col-sm-4 wow rotateInUpLeft" data-wow-delay="0.9s">
 					<div class="media pinterest">
-						<a href="#">
+						<a href="https://anouarchennife.herokuapp.com/">
 							<div class="media-object pull-left">
 								<i class="fa fa-a"></i>
 							</div>
@@ -379,7 +379,7 @@ https://templatemo.com/tm-464-ultra-profile
 				<div class="col-md-1 col-sm-1"></div>
 				<div class="col-md-12 col-sm-12">
 					<p>Copyright &copy; 2021 Anchenni
-                    . design: <a rel="nofollow noopener" href="https://templatemo.com">Anchenni</a></p>
+                    . design: <a rel="nofollow noopener" href="https://anouarchennife.herokuapp.com/">Anchenni</a></p>
 				</div>
 			</div>
 		</div>
