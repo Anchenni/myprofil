@@ -293,8 +293,8 @@ https://templatemo.com/tm-464-ultra-profile
 						<h2>À propos de <strong>moi</strong></h2>
 						<h1 class="tm-red-text">Développeur <strong>Full-Stack</strong></h1>
 					</div>
-					<p>Passionné par le monde de programmation depuis que j'avait 16 ans, j'ai décidé d'effectuer mes études dans ce domaine. </p>
-					<p>La découverte du développement fut pour moi une révélation, j'ai alors décidé de poursuivre mon parcours dans cette voie. Véritable passionné, désireux de produire le meilleur travail qui soit, je suis par la suite devenu autodidacte et j'ai également fondé mon auto-entreprise..</p>
+					<p>Passionné par le monde de la programmation depuis que j'avais 16 ans, j'ai décidé d'effectuer mes études dans ce domaine. </p>
+					<p>La découverte du monde de développement fut pour moi une révélation, j'ai alors décidé de poursuivre mon parcours dans cette voie. Véritable passionné, désireux de produire le meilleur travail qui soit, je suis par la suite devenu autodidacte et j'ai également fondé ma propre société...</p>
 				</div>
 			</div>
 		</div>
